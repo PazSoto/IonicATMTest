@@ -1,0 +1,7 @@
+{
+  "name": "ClickITApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
